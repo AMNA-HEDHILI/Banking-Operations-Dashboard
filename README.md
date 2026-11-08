@@ -202,8 +202,8 @@ Screenshots:
 
 ## 🚀 Next Steps
 
-- publish the dashboard online with a public link, so anyone can explore it without installing Power BI
-- add an AI assistant, so users can ask questions in plain language and get a short summary of the data.
+- Publish the dashboard online with a public link, so anyone can explore it without installing Power BI
+- Add an AI assistant, so users can ask questions in plain language and get a short summary of the data.
 
 ---
 
