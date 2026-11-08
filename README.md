@@ -29,7 +29,7 @@ This project builds the full pipeline to answer both, and turns it into a dashbo
 | `cards` | 4,000 | Debit, Credit, Prepaid; issue/expiry date; status |
 | `support_calls` | 3,100 | Issue type, call date, resolved yes/no |
 
-<!-- Add the data source here (e.g. synthetic dataset / Kaggle link) -->
+
 
 ---
 
@@ -67,7 +67,7 @@ loans         ──(CustomerID)────────────────
 support_calls ──(CustomerID)───────────────────────────> customers
 ```
 
-All relationships are **many-to-one, single direction**. Measures are organised in dedicated tables (`Accounts Measures`, `Loans Measures`, `Calls Measures`, `Transactions Measures`, `customers measures`, `Cards Measures`, `Measures Table`).
+All relationships are **many-to-one, single direction**. Measures are organised in dedicated tables.
 
 ![Data model](Dashboard/Images/Data_modeling.png)
 
